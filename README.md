@@ -9,8 +9,6 @@
 
 **Workplace Efficiency**
 
----
-
 ## 💡 My Vision
 
 I remember staring at an AWS bill for $400 — for EC2 instances that had been stopped for two months. Nobody noticed. Nobody had a tool that told them. I clicked through dozens of instances manually to find the idle ones. One region. One service. One month.
